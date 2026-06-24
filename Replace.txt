@@ -1,0 +1,40 @@
+                    <VContainer Name="Parallel Wave Area AB" MinX="-2" MinY="-2" MaxY="-2" Order="2" AlignX="1" AlignY="0" Visible="0">
+                        <VContainer Name="Deck Area C" MinX="-2" MinY="-2" MaxY="-2" Order="0" AlignX="1" AlignY="1" Visible="0">
+                            <Slot Name="Parallel Wave Area Padding" FormID="2043" MinX="-2" MinY="1" MaxY="1" Order="0" AlignX="1" AlignY="1"/>
+                            <VContainer Name="Parallel Track C" MinX="-2" MinY="-2" MaxY="-2" Order="1" AlignX="1" AlignY="1" Visible="0">
+                                <Slot Name="Parallel Wave C" FormID="887" MinX="150" MinY="91" MaxY="91" Order="0" AlignX="1" AlignY="1"/>
+                            </VContainer>
+                            <VContainer Name="Parallel Disabled C" MinX="-2" MinY="-2" MaxY="-2" Order="2" AlignX="1" AlignY="1" Visible="0">
+                                <Slot Name="Parallel Wave C" FormID="892" MinX="150" MinY="35" MaxY="35" Order="0" AlignX="1" AlignY="1"/>
+                            </VContainer>
+                        </VContainer>
+                        <VContainer Name="Deck Area A" MinX="-2" MinY="-2" MaxY="-2" Order="1" AlignX="1" AlignY="1" Visible="0">
+                            <Slot Name="Parallel Wave Area Padding" FormID="2041" MinX="-2" MinY="1" MaxY="1" Order="0" AlignX="1" AlignY="1"/>
+                            <VContainer Name="Parallel Track A" MinX="-2" MinY="-2" MaxY="-2" Order="1" AlignX="1" AlignY="1" Visible="0">
+                                <Slot Name="Parallel Wave A" FormID="885" MinX="150" MinY="91" MaxY="91" Order="0" AlignX="1" AlignY="1"/>
+                            </VContainer>
+                            <VContainer Name="Parallel Disabled A" MinX="-2" MinY="-2" MaxY="-2" Order="2" AlignX="1" AlignY="1" Visible="0">
+                                <Slot Name="Parallel Wave A" FormID="890" MinX="150" MinY="35" MaxY="35" Order="0" AlignX="1" AlignY="1"/>
+                            </VContainer>
+                        </VContainer>
+                    </VContainer>
+                    <VContainer Name="Parallel Wave Area CD" MinX="-2" MinY="-2" MaxY="-2" Order="3" AlignX="1" AlignY="0" Visible="0">
+                        <VContainer Name="Deck Area B" MinX="-2" MinY="-2" MaxY="-2" Order="0" AlignX="1" AlignY="1" Visible="0">
+                            <Slot Name="Parallel Wave Area Padding" FormID="2042" MinX="-2" MinY="1" MaxY="1" Order="0" AlignX="1" AlignY="1"/>
+                            <VContainer Name="Parallel Track B" MinX="-2" MinY="-2" MaxY="-2" Order="1" AlignX="1" AlignY="1" Visible="0">
+                                <Slot Name="Parallel Wave B" FormID="886" MinX="150" MinY="91" MaxY="91" Order="0" AlignX="1" AlignY="1"/>
+                            </VContainer>
+                            <VContainer Name="Parallel Disabled B" MinX="-2" MinY="-2" MaxY="-2" Order="2" AlignX="1" AlignY="1" Visible="0">
+                                <Slot Name="Parallel Wave B" FormID="891" MinX="150" MinY="35" MaxY="35" Order="0" AlignX="1" AlignY="1"/>
+                            </VContainer>
+                        </VContainer>
+                        <VContainer Name="Deck Area D" MinX="-2" MinY="-2" MaxY="-2" Order="1" AlignX="1" AlignY="1" Visible="0">
+                            <Slot Name="Parallel Wave Area Padding" FormID="2044" MinX="-2" MinY="1" MaxY="1" Order="0" AlignX="1" AlignY="1"/>
+                            <VContainer Name="Parallel Track D" MinX="-2" MinY="-2" MaxY="-2" Order="1" AlignX="1" AlignY="1" Visible="0">
+                                <Slot Name="Parallel Wave D" FormID="888" MinX="150" MinY="91" MaxY="91" Order="0" AlignX="1" AlignY="1"/>
+                            </VContainer>
+                            <VContainer Name="Parallel Disabled D" MinX="-2" MinY="-2" MaxY="-2" Order="2" AlignX="1" AlignY="1" Visible="0">
+                                <Slot Name="Parallel Wave D" FormID="893" MinX="150" MinY="35" MaxY="35" Order="0" AlignX="1" AlignY="1"/>
+                            </VContainer>
+                        </VContainer>
+                    </VContainer>
